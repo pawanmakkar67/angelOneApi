@@ -10,9 +10,9 @@
   "dependencies": {
     "axios": "^1.7.2",
     "express": "^4.19.2",
-    "smartapi-javascript": "^1.0.48"
+    "smartapi-javascript": "^1.0.46"
   },
   "engines": {
-      "node": "18.x"
+    "node": "18.x"
   }
 }
